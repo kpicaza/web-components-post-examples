@@ -13,7 +13,7 @@ export default class WordCountParagraph extends HTMLElement {
             }
             .word-count {
               position: relative;
-              left: 95%;
+              left: 90%;
             }
         `
 
